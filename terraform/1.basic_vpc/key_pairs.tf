@@ -1,0 +1,4 @@
+resource "aws_key_pair" "patryk_jurkiewicz" {
+  key_name = "patryk_jurkiewicz"
+  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC8qquhE9cR8NkUn2RcQRB1YR/I7CGwgc5d29IpaDlpULS+Ipzv1gxcdm2URoEtM7z7RHT3Vc6K9LVTOimotjMw2iyK7gceSHrsNP3+ZQUEiZtD+wIO11vsyJyvrcbuCZWO0DBAuWeuA4nc/+7iBlRasM1gIhuFu4x2sh4wTTsD+NNcxlPKHj6F0ebr/Xv+rot+BMHD3NZumF7wDz5FuHGakulKLQJ9fL6HbnkE4oaO6ID2+P5qOs7IeAk86U7srdLSfMF6vqWZodr4cvsGDGi7Mfkz+tHDiZJg9QmAnEGpNK8SzDESapO2qxOqWMeR7bzi+mcw3wLyQenZ/7nmJTcn fraez@DESKTOP-F8G6L78"
+}
